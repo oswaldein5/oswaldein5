@@ -1,7 +1,7 @@
 # 🚀 About Me
 ## - I'm Oswaldo!
 ## - Interested in knowing the world
-## - Enthusiast DevOps | Cloud
+## - DevOps Enthusiast | Cloud
 ---
 # 🛠 Skills
 ### Azure | AWS | Jenkins | Ansible | Puppet | Git
