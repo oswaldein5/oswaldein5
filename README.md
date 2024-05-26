@@ -4,7 +4,7 @@
 ## - DevOps Enthusiast | Cloud
 ---
 # 🛠 Skills
-### Azure | AWS | Jenkins | Ansible | Puppet | Git
+### Azure | AWS | Jenkins | Ansible | Puppet | Chef | Git
 ### Vagrant | Packer | Terraform | Bash | Docker | Kubernetes
 ### Python
 ---
