@@ -5,7 +5,7 @@
 ---
 # 🛠 Skills
 ### Azure | AWS | Jenkins | Ansible | Puppet | Chef | Git
-### Vagrant | Packer | Terraform | Bash | Docker | Kubernetes
+### Vagrant | Packer | Terraform | Bash | Docker | K8s
 ### Python
 ---
 # 🔗 Links
