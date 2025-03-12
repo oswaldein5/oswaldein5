@@ -10,6 +10,7 @@ I specialize in designing CI/CD pipelines, managing cloud platforms (AWS, Azure)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🔄 Automation & CI/CD
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Puppet](https://img.shields.io/badge/Puppet-FFFFFF?style=for-the-badge&logo=puppet&logoColor=black)
